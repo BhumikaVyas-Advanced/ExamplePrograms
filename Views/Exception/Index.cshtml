@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Exception Page";
+
+    var counter = ViewData["counter"];
+}
+
+<div class="text-center align-content-center">
+    <button><a asp-action="ExceptionCounter" asp-route-counter="@counter">@counter</a></button>
+</div>
