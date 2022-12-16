@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Database Exception Page";
+
+    var message = ViewData["message"];
+}
+
+<div class="text-center align-content-center">
+    <div><h2>Connect to database</h2></div>
+    <div>
+        <button><a asp-action="DatabaseConnect" asp-route-flag=true>Connect</a></button>
+    </div>
+
+    <br/>
+    <div><span hidden="@message">Database connected successfully!</span></div>
+</div>

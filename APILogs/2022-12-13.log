@@ -1,0 +1,47 @@
+2022-12-13 14:02:38.7077||ERROR|ExceptionHandling.Controllers.ExceptionController|System.DivideByZeroException: Attempted to divide by zero. System.DivideByZeroException: Attempted to divide by zero.
+   at ExceptionHandling.Controllers.ExceptionController.Index() in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\Controllers\ExceptionController.cs:line 20|url: |action: 
+2022-12-13 15:26:23.2203||ERROR|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:26:23.4099||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\Controllers\ExceptionController.cs:line 33|url: |action: 
+2022-12-13 15:26:35.5590||ERROR|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:26:35.6458||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\Controllers\ExceptionController.cs:line 33|url: |action: 
+2022-12-13 15:27:08.0110||ERROR|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:27:08.1070||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\Controllers\ExceptionController.cs:line 33|url: |action: 
+2022-12-13 15:40:25.4215||ERROR|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:40:25.7583||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\Controllers\ExceptionController.cs:line 33|url: |action: 
+2022-12-13 15:52:45.9907||DEBUG|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:52:46.2402||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\Controllers\ExceptionController.cs:line 35|url: |action: 
+2022-12-13 15:57:43.0409||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:57:44.8858||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:57:45.4131||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:22.5670||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:22.7017||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:23.1648||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:23.5269||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:23.8871||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:24.2279||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:24.4161||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:24.9338||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:25.1034||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:25.4636||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:25.8368||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 15:58:26.6328||DEBUG|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 15:58:26.8704||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\Controllers\ExceptionController.cs:line 37|url: |action: 
+2022-12-13 16:15:46.9562||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:47.9116||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:48.0800||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:48.3003||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:51.3678||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:51.5809||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:51.8958||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:52.2721||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:52.5083||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:53.3364||DEBUG|ExceptionHandling.Controllers.ExceptionController|Increasing counter value by 1 |url: |action: 
+2022-12-13 16:15:53.8955||DEBUG|ExceptionHandling.Controllers.ExceptionController|Exceeded the count limit |url: |action: 
+2022-12-13 16:15:54.0506||ERROR|ExceptionHandling.Controllers.ExceptionController|System.IO.InvalidDataException: You have exceeded the count limit System.IO.InvalidDataException: You have exceeded the count limit
+   at ExceptionHandling.Controllers.ExceptionController.ExceptionCounter(Int32 counter) in C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\Controllers\ExceptionController.cs:line 37|url: |action: 

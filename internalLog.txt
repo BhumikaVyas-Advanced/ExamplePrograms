@@ -618,3 +618,715 @@
 2022-12-13 15:27:07.9951 Info Registered target FileTarget(Name=ErrorLog)
 2022-12-13 15:27:08.0110 Info Closing old configuration.
 2022-12-13 15:27:08.0110 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:19.5478 Info Message Template Auto Format enabled
+2022-12-13 15:40:19.5585 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:19.6162 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:19.6380 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:21.3030 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:21.3086 Info Message Template Auto Format enabled
+2022-12-13 15:40:21.3086 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:21.3086 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:21.3287 Info Closing old configuration.
+2022-12-13 15:40:21.3736 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:22.5350 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:22.5350 Info Message Template Auto Format enabled
+2022-12-13 15:40:22.5444 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:22.5444 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:22.5444 Info Closing old configuration.
+2022-12-13 15:40:22.5608 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:22.7711 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:22.7711 Info Message Template Auto Format enabled
+2022-12-13 15:40:22.7811 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:22.7811 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:22.7944 Info Closing old configuration.
+2022-12-13 15:40:22.7944 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.0030 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.0030 Info Message Template Auto Format enabled
+2022-12-13 15:40:23.0137 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:23.0137 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:23.0137 Info Closing old configuration.
+2022-12-13 15:40:23.0306 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.2225 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.2225 Info Message Template Auto Format enabled
+2022-12-13 15:40:23.2327 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:23.2327 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:23.2327 Info Closing old configuration.
+2022-12-13 15:40:23.2481 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.4447 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.4497 Info Message Template Auto Format enabled
+2022-12-13 15:40:23.4497 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:23.4497 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:23.4657 Info Closing old configuration.
+2022-12-13 15:40:23.4657 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.7034 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.7034 Info Message Template Auto Format enabled
+2022-12-13 15:40:23.7155 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:23.7155 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:23.7155 Info Closing old configuration.
+2022-12-13 15:40:23.7336 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.9465 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:23.9517 Info Message Template Auto Format enabled
+2022-12-13 15:40:23.9517 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:23.9517 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:23.9683 Info Closing old configuration.
+2022-12-13 15:40:23.9683 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:24.4857 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:24.4857 Info Message Template Auto Format enabled
+2022-12-13 15:40:24.4959 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:24.4959 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:24.4959 Info Closing old configuration.
+2022-12-13 15:40:24.4959 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:24.7149 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:24.7149 Info Message Template Auto Format enabled
+2022-12-13 15:40:24.7149 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:24.7315 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:24.7315 Info Closing old configuration.
+2022-12-13 15:40:24.7315 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:25.3864 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:40:25.3864 Info Message Template Auto Format enabled
+2022-12-13 15:40:25.3864 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:40:25.4030 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:40:25.4030 Info Closing old configuration.
+2022-12-13 15:40:25.4030 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:40.3381 Info Message Template Auto Format enabled
+2022-12-13 15:52:40.3484 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:40.3991 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:40.4228 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.4706 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.4706 Info Message Template Auto Format enabled
+2022-12-13 15:52:41.4706 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:41.4706 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:41.4861 Info Closing old configuration.
+2022-12-13 15:52:41.5046 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.6732 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.6732 Info Message Template Auto Format enabled
+2022-12-13 15:52:41.6732 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:41.6732 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:41.6884 Info Closing old configuration.
+2022-12-13 15:52:41.6884 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.8583 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:41.8633 Info Message Template Auto Format enabled
+2022-12-13 15:52:41.8633 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:41.8633 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:41.8633 Info Closing old configuration.
+2022-12-13 15:52:41.8771 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.0259 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.0259 Info Message Template Auto Format enabled
+2022-12-13 15:52:42.0353 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:42.0353 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:42.0353 Info Closing old configuration.
+2022-12-13 15:52:42.0353 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.1906 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.1906 Info Message Template Auto Format enabled
+2022-12-13 15:52:42.1906 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:42.1906 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:42.2043 Info Closing old configuration.
+2022-12-13 15:52:42.2043 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.3711 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.3778 Info Message Template Auto Format enabled
+2022-12-13 15:52:42.3942 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:42.3942 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:42.3942 Info Closing old configuration.
+2022-12-13 15:52:42.4085 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.6257 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:42.6257 Info Message Template Auto Format enabled
+2022-12-13 15:52:42.6257 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:42.6257 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:42.6257 Info Closing old configuration.
+2022-12-13 15:52:42.6441 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:43.4842 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:43.5088 Info Message Template Auto Format enabled
+2022-12-13 15:52:43.5466 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:43.5837 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:43.5837 Info Closing old configuration.
+2022-12-13 15:52:43.6053 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:44.1293 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:44.1293 Info Message Template Auto Format enabled
+2022-12-13 15:52:44.1293 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:44.1661 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:44.1843 Info Closing old configuration.
+2022-12-13 15:52:44.2023 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.0244 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.0244 Info Message Template Auto Format enabled
+2022-12-13 15:52:45.0317 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:45.0494 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:45.0494 Info Closing old configuration.
+2022-12-13 15:52:45.0722 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.3733 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.3762 Info Message Template Auto Format enabled
+2022-12-13 15:52:45.3762 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:45.3762 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:45.3762 Info Closing old configuration.
+2022-12-13 15:52:45.3919 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.9544 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:52:45.9544 Info Message Template Auto Format enabled
+2022-12-13 15:52:45.9544 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:52:45.9728 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:52:45.9728 Info Closing old configuration.
+2022-12-13 15:52:45.9728 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:39.9447 Info Message Template Auto Format enabled
+2022-12-13 15:57:39.9447 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:57:40.0300 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:57:40.0670 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:42.9476 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:42.9476 Info Message Template Auto Format enabled
+2022-12-13 15:57:42.9476 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:57:42.9660 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:57:42.9660 Info Closing old configuration.
+2022-12-13 15:57:43.0056 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:44.8484 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:44.8532 Info Message Template Auto Format enabled
+2022-12-13 15:57:44.8532 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:57:44.8532 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:57:44.8679 Info Closing old configuration.
+2022-12-13 15:57:44.8858 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:45.3923 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:57:45.3923 Info Message Template Auto Format enabled
+2022-12-13 15:57:45.4018 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:57:45.4018 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:57:45.4131 Info Closing old configuration.
+2022-12-13 15:57:45.4131 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:20.8236 Info Message Template Auto Format enabled
+2022-12-13 15:58:20.8236 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:20.8746 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:20.8978 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:22.4683 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:22.4683 Info Message Template Auto Format enabled
+2022-12-13 15:58:22.4783 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:22.4783 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:22.4783 Info Closing old configuration.
+2022-12-13 15:58:22.5273 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:22.6376 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:22.6376 Info Message Template Auto Format enabled
+2022-12-13 15:58:22.6376 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:22.6540 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:22.6540 Info Closing old configuration.
+2022-12-13 15:58:22.7017 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.1377 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.1377 Info Message Template Auto Format enabled
+2022-12-13 15:58:23.1377 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:23.1532 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:23.1532 Info Closing old configuration.
+2022-12-13 15:58:23.1648 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.4926 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.4926 Info Message Template Auto Format enabled
+2022-12-13 15:58:23.4926 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:23.5127 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:23.5127 Info Closing old configuration.
+2022-12-13 15:58:23.5269 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.8565 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:23.8565 Info Message Template Auto Format enabled
+2022-12-13 15:58:23.8677 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:23.8677 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:23.8677 Info Closing old configuration.
+2022-12-13 15:58:23.8871 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.2080 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.2127 Info Message Template Auto Format enabled
+2022-12-13 15:58:24.2127 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:24.2127 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:24.2279 Info Closing old configuration.
+2022-12-13 15:58:24.2279 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.3872 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.3872 Info Message Template Auto Format enabled
+2022-12-13 15:58:24.3988 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:24.3988 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:24.3988 Info Closing old configuration.
+2022-12-13 15:58:24.4161 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.9011 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:24.9011 Info Message Template Auto Format enabled
+2022-12-13 15:58:24.9011 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:24.9169 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:24.9169 Info Closing old configuration.
+2022-12-13 15:58:24.9169 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.0752 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.0752 Info Message Template Auto Format enabled
+2022-12-13 15:58:25.0752 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:25.0904 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:25.0904 Info Closing old configuration.
+2022-12-13 15:58:25.1034 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.4365 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.4365 Info Message Template Auto Format enabled
+2022-12-13 15:58:25.4450 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:25.4450 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:25.4450 Info Closing old configuration.
+2022-12-13 15:58:25.4636 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.8108 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:25.8108 Info Message Template Auto Format enabled
+2022-12-13 15:58:25.8108 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:25.8258 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:25.8258 Info Closing old configuration.
+2022-12-13 15:58:25.8368 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:26.6119 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:58:26.6169 Info Message Template Auto Format enabled
+2022-12-13 15:58:26.6169 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:58:26.6169 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:58:26.6328 Info Closing old configuration.
+2022-12-13 15:58:26.6328 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 15:59:13.3732 Info Message Template Auto Format enabled
+2022-12-13 15:59:13.3732 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 15:59:13.4289 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 15:59:13.4582 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:00:50.9984 Info Message Template Auto Format enabled
+2022-12-13 16:00:50.9984 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:00:51.0658 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:00:51.1074 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:01:23.2293 Info Message Template Auto Format enabled
+2022-12-13 16:01:23.2293 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:01:23.2837 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:01:23.3087 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:01:58.4008 Info Message Template Auto Format enabled
+2022-12-13 16:01:58.4099 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:01:58.4566 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:01:58.4828 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:01:59.7883 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:01:59.7921 Info Message Template Auto Format enabled
+2022-12-13 16:01:59.7921 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:01:59.7921 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:01:59.7921 Info Closing old configuration.
+2022-12-13 16:01:59.8300 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:00.8367 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:00.8396 Info Message Template Auto Format enabled
+2022-12-13 16:02:00.8396 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:00.8396 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:00.8396 Info Closing old configuration.
+2022-12-13 16:02:00.8396 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:01.8432 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:01.8432 Info Message Template Auto Format enabled
+2022-12-13 16:02:01.8432 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:01.8548 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:01.8548 Info Closing old configuration.
+2022-12-13 16:02:01.8548 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:02.0345 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:02.0345 Info Message Template Auto Format enabled
+2022-12-13 16:02:02.0418 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:02.0418 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:02.0418 Info Closing old configuration.
+2022-12-13 16:02:02.0418 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:02.4470 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:02.4505 Info Message Template Auto Format enabled
+2022-12-13 16:02:02.4505 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:02.4505 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:02.4505 Info Closing old configuration.
+2022-12-13 16:02:02.4649 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:03.0949 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:03.0949 Info Message Template Auto Format enabled
+2022-12-13 16:02:03.0949 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:03.0949 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:03.1073 Info Closing old configuration.
+2022-12-13 16:02:03.1073 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:20.5328 Info Message Template Auto Format enabled
+2022-12-13 16:02:20.5328 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:20.5937 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:20.6156 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:24.4123 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:24.4169 Info Message Template Auto Format enabled
+2022-12-13 16:02:24.4169 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:24.4169 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:24.4169 Info Closing old configuration.
+2022-12-13 16:02:24.4486 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:24.9887 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:02:24.9887 Info Message Template Auto Format enabled
+2022-12-13 16:02:24.9972 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:02:24.9972 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:02:24.9972 Info Closing old configuration.
+2022-12-13 16:02:25.0114 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:42.0736 Info Message Template Auto Format enabled
+2022-12-13 16:15:42.0849 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:42.1300 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:42.1642 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:44.1104 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:44.1152 Info Message Template Auto Format enabled
+2022-12-13 16:15:44.1152 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:44.1152 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:44.1300 Info Closing old configuration.
+2022-12-13 16:15:44.1519 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:46.8831 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:46.8831 Info Message Template Auto Format enabled
+2022-12-13 16:15:46.8944 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:46.8944 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:46.8944 Info Closing old configuration.
+2022-12-13 16:15:46.9139 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:47.8713 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:47.8713 Info Message Template Auto Format enabled
+2022-12-13 16:15:47.8819 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:47.8819 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:47.8927 Info Closing old configuration.
+2022-12-13 16:15:47.9116 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:48.0580 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:48.0580 Info Message Template Auto Format enabled
+2022-12-13 16:15:48.0684 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:48.0684 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:48.0800 Info Closing old configuration.
+2022-12-13 16:15:48.0800 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:48.2716 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:48.2716 Info Message Template Auto Format enabled
+2022-12-13 16:15:48.2716 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:48.2882 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:48.2882 Info Closing old configuration.
+2022-12-13 16:15:48.3003 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.3389 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.3389 Info Message Template Auto Format enabled
+2022-12-13 16:15:51.3493 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:51.3493 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:51.3493 Info Closing old configuration.
+2022-12-13 16:15:51.3678 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.5578 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.5578 Info Message Template Auto Format enabled
+2022-12-13 16:15:51.5685 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:51.5685 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:51.5809 Info Closing old configuration.
+2022-12-13 16:15:51.5809 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.8636 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:51.8636 Info Message Template Auto Format enabled
+2022-12-13 16:15:51.8636 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:51.8818 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:51.8818 Info Closing old configuration.
+2022-12-13 16:15:51.8958 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:52.2324 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:52.2387 Info Message Template Auto Format enabled
+2022-12-13 16:15:52.2387 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:52.2387 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:52.2571 Info Closing old configuration.
+2022-12-13 16:15:52.2571 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:52.4766 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:52.4766 Info Message Template Auto Format enabled
+2022-12-13 16:15:52.4875 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:52.4875 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:52.4875 Info Closing old configuration.
+2022-12-13 16:15:52.5083 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:53.3092 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:53.3092 Info Message Template Auto Format enabled
+2022-12-13 16:15:53.3191 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:53.3191 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:53.3191 Info Closing old configuration.
+2022-12-13 16:15:53.3364 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:53.8659 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-13 16:15:53.8659 Info Message Template Auto Format enabled
+2022-12-13 16:15:53.8775 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-13 16:15:53.8775 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-13 16:15:53.8775 Info Closing old configuration.
+2022-12-13 16:15:53.8955 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\ExceptionHandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:27.9883 Info Message Template Auto Format enabled
+2022-12-16 12:53:28.0010 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 12:53:28.0461 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 12:53:28.0674 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:33.9474 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:33.9474 Info Message Template Auto Format enabled
+2022-12-16 12:53:33.9573 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 12:53:33.9573 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 12:53:33.9573 Info Closing old configuration.
+2022-12-16 12:53:33.9909 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:41.9042 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:41.9084 Info Message Template Auto Format enabled
+2022-12-16 12:53:41.9084 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 12:53:41.9084 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 12:53:41.9084 Info Closing old configuration.
+2022-12-16 12:53:41.9223 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:44.2973 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:44.2973 Info Message Template Auto Format enabled
+2022-12-16 12:53:44.2973 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 12:53:44.2973 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 12:53:44.3130 Info Closing old configuration.
+2022-12-16 12:53:44.3130 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:45.8353 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 12:53:45.8353 Info Message Template Auto Format enabled
+2022-12-16 12:53:45.8439 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 12:53:45.8439 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 12:53:45.8439 Info Closing old configuration.
+2022-12-16 12:53:45.8439 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:00:39.2385 Info Message Template Auto Format enabled
+2022-12-16 13:00:39.2496 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:00:39.2998 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:00:39.3311 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:00:41.8681 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:00:41.8681 Info Message Template Auto Format enabled
+2022-12-16 13:00:41.8773 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:00:41.8773 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:00:41.8773 Info Closing old configuration.
+2022-12-16 13:00:41.9066 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:00:59.8936 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:00:59.8936 Info Message Template Auto Format enabled
+2022-12-16 13:00:59.9055 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:00:59.9055 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:00:59.9055 Info Closing old configuration.
+2022-12-16 13:00:59.9055 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:00.6686 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:00.6734 Info Message Template Auto Format enabled
+2022-12-16 13:01:00.6734 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:01:00.6734 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:01:00.6900 Info Closing old configuration.
+2022-12-16 13:01:00.6900 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:01.0861 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:01.0861 Info Message Template Auto Format enabled
+2022-12-16 13:01:01.0983 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:01:01.0983 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:01:01.1099 Info Closing old configuration.
+2022-12-16 13:01:01.1099 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:45.1511 Info Message Template Auto Format enabled
+2022-12-16 13:01:45.1620 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:01:45.2432 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:01:45.2783 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:51.0023 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:51.0023 Info Message Template Auto Format enabled
+2022-12-16 13:01:51.0162 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:01:51.0162 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:01:51.0162 Info Closing old configuration.
+2022-12-16 13:01:51.0633 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:57.7214 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:01:57.7214 Info Message Template Auto Format enabled
+2022-12-16 13:01:57.7214 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:01:57.7391 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:01:57.7391 Info Closing old configuration.
+2022-12-16 13:01:57.7512 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:02:01.4960 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:02:01.5014 Info Message Template Auto Format enabled
+2022-12-16 13:02:01.5014 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:02:01.5014 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:02:01.5171 Info Closing old configuration.
+2022-12-16 13:02:01.5171 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:02:53.9834 Info Message Template Auto Format enabled
+2022-12-16 13:02:53.9926 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:02:54.0378 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:02:54.0578 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:02:58.7946 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:02:58.7986 Info Message Template Auto Format enabled
+2022-12-16 13:02:58.7986 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:02:58.7986 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:02:58.7986 Info Closing old configuration.
+2022-12-16 13:02:58.8304 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:03:00.3464 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:03:00.3464 Info Message Template Auto Format enabled
+2022-12-16 13:03:00.3464 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:03:00.3625 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:03:00.3625 Info Closing old configuration.
+2022-12-16 13:03:00.3625 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:03:03.1087 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:03:03.1087 Info Message Template Auto Format enabled
+2022-12-16 13:03:03.1087 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:03:03.1252 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:03:03.1252 Info Closing old configuration.
+2022-12-16 13:03:03.1252 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:04:43.5520 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:04:43.5520 Info Message Template Auto Format enabled
+2022-12-16 13:04:43.5625 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:04:43.5625 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:04:43.5625 Info Closing old configuration.
+2022-12-16 13:04:43.5798 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:04:52.5794 Info Message Template Auto Format enabled
+2022-12-16 13:04:52.5794 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:04:52.6390 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:04:52.6656 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:04:54.4935 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:04:54.4935 Info Message Template Auto Format enabled
+2022-12-16 13:04:54.5030 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:04:54.5030 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:04:54.5030 Info Closing old configuration.
+2022-12-16 13:04:54.5278 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:04.0660 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:04.0660 Info Message Template Auto Format enabled
+2022-12-16 13:05:04.0660 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:05:04.0826 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:05:04.0826 Info Closing old configuration.
+2022-12-16 13:05:04.0939 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:11.3982 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:11.3982 Info Message Template Auto Format enabled
+2022-12-16 13:05:11.4085 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:05:11.4085 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:05:11.4085 Info Closing old configuration.
+2022-12-16 13:05:11.4085 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:53.7030 Info Message Template Auto Format enabled
+2022-12-16 13:05:53.7030 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:05:53.7579 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:05:53.7809 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:55.3953 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:05:55.3953 Info Message Template Auto Format enabled
+2022-12-16 13:05:55.3953 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:05:55.3953 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:05:55.4082 Info Closing old configuration.
+2022-12-16 13:05:55.4293 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:06:05.2694 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:06:05.2694 Info Message Template Auto Format enabled
+2022-12-16 13:06:05.2694 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:06:05.2852 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:06:05.2852 Info Closing old configuration.
+2022-12-16 13:06:05.2977 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:06:19.5716 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:06:19.5716 Info Message Template Auto Format enabled
+2022-12-16 13:06:19.5808 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:06:19.5808 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:06:19.5808 Info Closing old configuration.
+2022-12-16 13:06:19.5975 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:07:24.8435 Info Message Template Auto Format enabled
+2022-12-16 13:07:24.8435 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:07:24.9013 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:07:24.9259 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:07:26.8468 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:07:26.8468 Info Message Template Auto Format enabled
+2022-12-16 13:07:26.8468 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:07:26.8468 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:07:26.8598 Info Closing old configuration.
+2022-12-16 13:07:26.8747 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:07:37.1598 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:07:37.1598 Info Message Template Auto Format enabled
+2022-12-16 13:07:37.1598 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:07:37.1779 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:07:37.1779 Info Closing old configuration.
+2022-12-16 13:07:37.1893 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:10:59.8772 Info Message Template Auto Format enabled
+2022-12-16 13:10:59.8772 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:10:59.9299 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:10:59.9506 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:01.7252 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:01.7252 Info Message Template Auto Format enabled
+2022-12-16 13:11:01.7252 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:11:01.7348 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:11:01.7348 Info Closing old configuration.
+2022-12-16 13:11:01.7549 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:06.5938 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:06.5938 Info Message Template Auto Format enabled
+2022-12-16 13:11:06.5938 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:11:06.6102 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:11:06.6102 Info Closing old configuration.
+2022-12-16 13:11:06.6102 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:15.3620 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:15.3620 Info Message Template Auto Format enabled
+2022-12-16 13:11:15.3620 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:11:15.3785 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:11:15.3785 Info Closing old configuration.
+2022-12-16 13:11:15.3785 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:22.0202 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:22.0202 Info Message Template Auto Format enabled
+2022-12-16 13:11:22.0202 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:11:22.0354 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:11:22.0354 Info Closing old configuration.
+2022-12-16 13:11:22.0354 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:23.4906 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:11:23.4906 Info Message Template Auto Format enabled
+2022-12-16 13:11:23.5003 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:11:23.5003 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:11:23.5003 Info Closing old configuration.
+2022-12-16 13:11:23.5161 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:20:54.0718 Info Message Template Auto Format enabled
+2022-12-16 13:20:54.0809 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:20:54.1318 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:20:54.1563 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:20:55.8119 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:20:55.8151 Info Message Template Auto Format enabled
+2022-12-16 13:20:55.8151 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:20:55.8151 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:20:55.8151 Info Closing old configuration.
+2022-12-16 13:20:55.8398 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:21:05.3782 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:21:05.3782 Info Message Template Auto Format enabled
+2022-12-16 13:21:05.3782 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:21:05.3942 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:21:05.3942 Info Closing old configuration.
+2022-12-16 13:21:05.3942 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:27:12.1143 Info Message Template Auto Format enabled
+2022-12-16 13:27:12.1257 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:27:12.1862 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:27:12.2183 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:27:13.4705 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:27:13.4705 Info Message Template Auto Format enabled
+2022-12-16 13:27:13.4705 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:27:13.4705 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:27:13.4859 Info Closing old configuration.
+2022-12-16 13:27:13.5002 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:27:19.3944 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:27:19.3944 Info Message Template Auto Format enabled
+2022-12-16 13:27:19.3944 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:27:19.4099 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:27:19.4099 Info Closing old configuration.
+2022-12-16 13:27:19.4099 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:42.5949 Info Message Template Auto Format enabled
+2022-12-16 13:28:42.5949 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:28:42.6728 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:28:42.7187 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:44.6282 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:44.6282 Info Message Template Auto Format enabled
+2022-12-16 13:28:44.6282 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:28:44.6282 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:28:44.6409 Info Closing old configuration.
+2022-12-16 13:28:44.6563 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:48.2993 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:48.2993 Info Message Template Auto Format enabled
+2022-12-16 13:28:48.2993 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:28:48.3154 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:28:48.3154 Info Closing old configuration.
+2022-12-16 13:28:48.3154 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:52.6083 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:52.6134 Info Message Template Auto Format enabled
+2022-12-16 13:28:52.6134 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:28:52.6134 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:28:52.6278 Info Closing old configuration.
+2022-12-16 13:28:52.6424 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:57.5404 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:28:57.5404 Info Message Template Auto Format enabled
+2022-12-16 13:28:57.5509 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:28:57.5509 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:28:57.5625 Info Closing old configuration.
+2022-12-16 13:28:57.5625 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:32:20.2795 Info Message Template Auto Format enabled
+2022-12-16 13:32:20.2919 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:32:20.3425 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:32:20.3712 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:32:21.8576 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:32:21.8610 Info Message Template Auto Format enabled
+2022-12-16 13:32:21.8610 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:32:21.8610 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:32:21.8610 Info Closing old configuration.
+2022-12-16 13:32:21.8896 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:32:26.6969 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:32:26.7029 Info Message Template Auto Format enabled
+2022-12-16 13:32:26.7029 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:32:26.7029 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:32:26.7188 Info Closing old configuration.
+2022-12-16 13:32:26.7188 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:34:56.8677 Info Message Template Auto Format enabled
+2022-12-16 13:34:56.8837 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:34:56.9364 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:34:56.9618 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:34:58.6361 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:34:58.6361 Info Message Template Auto Format enabled
+2022-12-16 13:34:58.6426 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:34:58.6426 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:34:58.6426 Info Closing old configuration.
+2022-12-16 13:34:58.6646 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:02.0434 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:02.0487 Info Message Template Auto Format enabled
+2022-12-16 13:35:02.0487 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:35:02.0487 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:35:02.0639 Info Closing old configuration.
+2022-12-16 13:35:02.0639 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:53.0401 Info Message Template Auto Format enabled
+2022-12-16 13:35:53.0510 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:35:53.1143 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:35:53.1533 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:54.5825 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:54.5825 Info Message Template Auto Format enabled
+2022-12-16 13:35:54.5825 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:35:54.5825 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:35:54.5938 Info Closing old configuration.
+2022-12-16 13:35:54.6091 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:57.9210 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:35:57.9261 Info Message Template Auto Format enabled
+2022-12-16 13:35:57.9261 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:35:57.9261 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:35:57.9411 Info Closing old configuration.
+2022-12-16 13:35:57.9411 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:39:49.7550 Info Message Template Auto Format enabled
+2022-12-16 13:39:49.7738 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:39:49.8370 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:39:49.8630 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:39:51.2715 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:39:51.2715 Info Message Template Auto Format enabled
+2022-12-16 13:39:51.2715 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:39:51.2818 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:39:51.2818 Info Closing old configuration.
+2022-12-16 13:39:51.3030 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:39:52.4475 Info Loading NLog config from XML file: C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
+2022-12-16 13:39:52.4475 Info Message Template Auto Format enabled
+2022-12-16 13:39:52.4543 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-16 13:39:52.4543 Info Registered target FileTarget(Name=ErrorLog)
+2022-12-16 13:39:52.4543 Info Closing old configuration.
+2022-12-16 13:39:52.4543 Info Validating config: TargetNames=ErrorLog, ConfigItems=24, FilePath=C:\Projects\DOTNETProjects\ExceptionHandlingWithLogging\Exceptionhandling\bin\Debug\net6.0\nlog.config
